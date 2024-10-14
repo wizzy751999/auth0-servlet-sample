@@ -1,0 +1,14 @@
+<context-param>
+    <param-name>com.auth0.domain</param-name>
+    <param-value>{YOUR_AUTH0_DOMAIN}</param-value>
+</context-param>
+
+<context-param>
+    <param-name>com.auth0.clientId</param-name>
+    <param-value>{YOUR_AUTH0_CLIENT_ID}</param-value>
+</context-param>
+
+<context-param>
+    <param-name>dev-lwg2uj0g6dzewovm.au.auth0.com
+</param-name>
+    <param-value>{t7FMMm6OXCTcJLsXqGKvD4D0D9yswhIt}</param-value>
